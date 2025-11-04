@@ -1,3 +1,4 @@
+
 export interface Artwork {
   id: string;
   title: string;
@@ -9,59 +10,59 @@ export interface Artwork {
 export const artworks: Artwork[] = [
   {
     id: '1',
-    title: 'The Sentinel',
-    description: 'A textured, abstract portrait that emerges from the canvas, evoking a sense of ancient wisdom and silent observation. The layers suggest a history etched in time.',
+    title: 'Ethereal Dreams',
+    description: 'A hauntingly beautiful portrait that captures a fleeting dream. The subject\'s gaze is both distant and piercing, drawing the viewer into a world of untold stories.',
     imageId: 'artwork-1',
     featured: true,
   },
   {
     id: '2',
-    title: 'Solar Flare',
-    description: 'A brilliant burst of golden-yellow and orange, capturing the raw, untamed energy of the sun. This piece radiates warmth and intense, vibrant power.',
+    title: 'Golden Hour',
+    description: 'An abstract piece that glows with the warmth of a setting sun. The interplay of light and shadow creates a sense of serene, almost sacred, energy.',
     imageId: 'artwork-2',
     featured: true,
   },
   {
     id: '3',
-    title: 'Oceanic Depth',
-    description: 'Swirls of deep blue, white, and black create a turbulent, abstract seascape. It explores the powerful and mysterious nature of the ocean depths.',
+    title: 'Mind\'s Labyrinth',
+    description: 'A complex and intricate composition that maps the chaotic beauty of the human mind. Each line and color represents a thought, a memory, a path taken or not.',
     imageId: 'artwork-3',
     featured: true,
   },
   {
     id: '4',
-    title: 'Gilded Rift',
-    description: 'A striking composition where a river of gold leaf cuts through a stark, textured landscape of black and white, symbolizing value found in imperfection.',
+    title: 'Resilience',
+    description: 'A powerful and defiant portrait that speaks to the strength of the human spirit. The subject\'s unflinching stare is a testament to enduring and overcoming.',
     imageId: 'artwork-4',
   },
   {
     id: '5',
-    title: 'Floral Burst',
-    description: 'A vibrant explosion of abstract floral shapes and colors. This piece celebrates the wild, untamed beauty of a blooming garden.',
+    title: 'Chromatic Flow',
+    description: 'A symphony of color and movement, this piece is a celebration of pure, unadulterated joy. The vibrant hues dance across the canvas in a visual melody.',
     imageId: 'artwork-5',
   },
   {
     id: '6',
-    title: 'Fragmented Souls',
-    description: 'A collection of abstract faces and figures overlapping and intertwining, exploring the complex and multifaceted nature of identity and connection.',
+    title: 'Urban Echoes',
+    description: 'This artwork captures the raw, gritty energy of the city. The fragmented composition reflects the constant motion and overlapping stories of urban life.',
     imageId: 'artwork-6',
   },
   {
     id: '7',
-    title: 'The Monarch',
-    description: 'A regal portrait that combines classical form with modern abstraction. The subject\'s gaze holds a quiet authority and a deep, contemplative stillness.',
+    title: 'Silent Contemplation',
+    description: 'A moment of quiet introspection is captured in this stunning portrait. The subject is lost in thought, inviting the viewer to pause and reflect.',
     imageId: 'artwork-7',
   },
   {
     id: '8',
-    title: 'Woven Reality',
-    description: 'Threads of vibrant color are woven together in a complex, fabric-like tapestry. This piece explores how individual moments and choices create the whole of our reality.',
+    title: 'Digital Soul',
+    description: 'A fusion of technology and humanity, this piece explores what it means to be alive in the digital age. The glitch-like effects hint at the beauty in imperfection.',
     imageId: 'artwork-8',
   },
   {
     id: '9',
-    title: 'The Watcher',
-    description: 'A compelling portrait where the subject\'s direct gaze creates a powerful connection with the viewer, inviting a silent, intense dialogue.',
+    title: 'Nature\'s Cipher',
+    description: 'An abstract interpretation of the hidden codes within nature. The organic shapes and earthy tones create a sense of mystery and wonder.',
     imageId: 'artwork-9',
   },
 ];
