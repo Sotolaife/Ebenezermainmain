@@ -1,3 +1,70 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-background",
+      "description": "Abstract gold and black painting, representing the elegant and bold style of the artist.",
+      "imageUrl": "https://images.unsplash.com/photo-1531489956451-20957fab52f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxhYnN0cmFjdCUyMHBhaW50aW5nfGVufDB8fHx8MTc2MjE4MjUxM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract painting"
+    },
+    {
+      "id": "artist-portrait",
+      "description": "Black and white portrait of the artist, Pavillion, in his studio.",
+      "imageUrl": "https://images.unsplash.com/photo-1614204424926-196a80bf0be8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhcnRpc3QlMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjIxOTE5OTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "artist portrait"
+    },
+    {
+      "id": "artwork-1",
+      "description": "Artwork titled 'Ethereal Dreams'",
+      "imageUrl": "https://images.unsplash.com/photo-1552250575-e508473b090f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxhYnN0cmFjdCUyMGFydHxlbnwwfHx8fDE3NjIxNDY4NzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract art"
+    },
+    {
+      "id": "artwork-2",
+      "description": "Artwork titled 'Golden Hour'",
+      "imageUrl": "https://images.unsplash.com/photo-1533208087231-c3618eab623c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxhYnN0cmFjdCUyMHBhaW50aW5nfGVufDB8fHx8MTc2MjE4MjUxM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract painting"
+    },
+    {
+      "id": "artwork-3",
+      "description": "Artwork titled 'Mind's Labyrinth'",
+      "imageUrl": "https://images.unsplash.com/photo-1641221780282-dcc3f727d11e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxzdXJyZWFsJTIwYXJ0fGVufDB8fHx8MTc2MjE0MDYwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "surreal art"
+    },
+    {
+      "id": "artwork-4",
+      "description": "Artwork titled 'Resilience'",
+      "imageUrl": "https://images.unsplash.com/photo-1657026947006-a7663dbe4cd4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxtb2Rlcm4lMjBzY3VscHR1cmV8ZW58MHx8fHwxNzYyMTgyNTE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern sculpture"
+    },
+    {
+      "id": "artwork-5",
+      "description": "Artwork titled 'Chromatic Flow'",
+      "imageUrl": "https://images.unsplash.com/photo-1533158326339-7f3cf2404354?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjb2xvcmZ1bCUyMGFic3RyYWN0fGVufDB8fHx8MTc2MjIzODM0M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "colorful abstract"
+    },
+    {
+      "id": "artwork-6",
+      "description": "Artwork titled 'Urban Echoes'",
+      "imageUrl": "https://images.unsplash.com/photo-1617400120050-a1e45fa16c02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzdHJlZXQlMjBhcnR8ZW58MHx8fHwxNzYyMTM0MzE5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "street art"
+    },
+    {
+      "id": "artwork-7",
+      "description": "Artwork titled 'Silent Contemplation'",
+      "imageUrl": "https://images.unsplash.com/photo-1511330726760-148bc5aaf368?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxtaW5pbWFsaXN0JTIwcGFpbnRpbmd8ZW58MHx8fHwxNzYyMjM4MzQzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "minimalist painting"
+    },
+    {
+      "id": "artwork-8",
+      "description": "Artwork titled 'Digital Soul'",
+      "imageUrl": "https://images.unsplash.com/photo-1634320714682-ae8b9c9cee60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZGlnaXRhbCUyMGFydHxlbnwwfHx8fDE3NjIyMTkyNDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "digital art"
+    },
+    {
+      "id": "artwork-9",
+      "description": "Artwork titled 'Nature's Cipher'",
+      "imageUrl": "https://images.unsplash.com/photo-1580133318324-f2f76d987dd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxuYXR1cmUlMjBhYnN0cmFjdHxlbnwwfHx8fDE3NjIyMjY0Mzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "nature abstract"
+    }
+  ]
 }
